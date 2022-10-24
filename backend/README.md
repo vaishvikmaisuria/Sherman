@@ -3,7 +3,7 @@
 
 1. Design DB on dbdiagram.io and generate SQL code.
 
-![alt text](https://github.com/vaishvikmaisuria/Sherman/tree/main/backend/db/Database%20diagram.png?raw=true)
+![alt image](https://github.com/vaishvikmaisuria/Sherman/blob/main/backend/db/Database.png)
 
 2. Configure Postgres on Docker
     1.
