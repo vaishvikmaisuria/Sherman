@@ -26,6 +26,9 @@
    7. createdb --username=root --owner=root simple_bank
    8. psql simple_bank && dropdb simple_bank && exit
    9. migrate -path simplebank/db/migration -database "postgresql://root:secret@localhost:5032/simple_bank?sslmode=disable" -verbose up
+   10. Update Makefile
+   11. Database/sql vs GoRM vs SQLX vs SQLC
+   12. brew install kyleconroy/sqlc/sqlc
 
 
 Mobile App that helps roommates distribute expanses in a common living space.
